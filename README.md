@@ -13,4 +13,4 @@ A Python Tkinter application that allows users to manage recipes and automatical
 - SQL
 
 ## Notes
-This project was originally developed as part of my coursework and further refined independently.
+This project was originally developed as part of my coursework.
